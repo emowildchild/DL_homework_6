@@ -1,1 +1,1 @@
-# DL_homework_6
+https://emowildchild.github.io/DL_homework_6/
