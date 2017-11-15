@@ -1,2 +1,1 @@
-# emowildchild.github.io
-My page
+https://emowildchild.github.io/DL_homework_6/
